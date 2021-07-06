@@ -1,6 +1,6 @@
 # Back-end coding challenge
 
-¡Hola! Gracias por tu interés en nuestro puestro de backend developer. Te invitamos a completar este ejercicio y compartirlo con el reclutador o a través del correo hola@polpocr.com.
+¡Hola! Gracias por tu interés en nuestro puesto de backend developer. Te invitamos a completar este ejercicio y compartirlo con el reclutador o a través del correo hola@polpocr.com.
 
 # Challenge
 
@@ -12,6 +12,7 @@ El desafío consiste en diseñar un sistema de reserva de entradas para eventos 
  4. Ofrecer distintas posibilidades de horarios para un mismo evento en el caso de que aplique
  5. Permitir manejar diferentes tipos de entradas (Platino, oro, plata, bronce)
  6. Manejar las notificaciones del sistema
+ 7. Crear reservas
 
 ## Entregables
 
